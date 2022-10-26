@@ -1,3 +1,4 @@
+[![CI-Build](https://github.com/vanya2073/Pos/actions/workflows/dotnet.yml/badge.svg)](https://github.com/vanya2073/Pos/actions/workflows/dotnet.yml)
 # POS - DDD, Reactive Microservices, CQRS Event Sourcing Powered by DERMAYON LIBRARY
 Sample Application DDD Reactive Microservices with CQRS & Event Sourcing with [DERMAYON LIBRARY](https://github.com/NHadi/Dermayon). 
 
